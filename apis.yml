@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/MaximIntegratedMicros
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/maxim-integrated
   - type: Website
     url: https://www.maxim-integrated-products.com
 description: >-
