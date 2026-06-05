@@ -1,4 +1,6 @@
 aid: maxim-integrated-products
+tags:
+  - Fortune 1000
 url: 
   https://raw.githubusercontent.com/api-evangelist/maxim-integrated-products/refs/heads/main/apis.yml
 modified: '2026-04-28'
