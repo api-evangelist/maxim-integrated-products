@@ -1,7 +1,9 @@
 ---
 title: Analog Devices' purchase of Maxim Integrated combines ...
 url: https://www.facebook.com/marketwatch/posts/analog-devices-purchase-of-maxim-integrated-combines-powers-in-the-arcane-analog/10157569655761848/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Maxim Integrated Products" press release artificial intelligence'
 position: 4
 source: serpapi-google
